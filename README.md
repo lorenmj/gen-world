@@ -1,6 +1,6 @@
 # gen-world
 
-Generate a grid pattern world with terrain options using perlin noise generation.
+Generate a grid pattern world with terrain options using perlin noise generation written in Python.
 
-Python.
+Uses and depend on https://github.com/caseman/noise
 
