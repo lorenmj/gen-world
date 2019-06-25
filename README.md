@@ -6,6 +6,7 @@ Uses and depends on https://github.com/caseman/noise
 
 Typical output using seed 0, no command line parameters, all defaults:
 
+```
 Generating world of size 1000 by 1000...
 Seed 0 Water Percentage 15.0 Land Feature Variant 24.0.
 Make water level 45 or below..
@@ -58,5 +59,5 @@ PGM world.pgm [DONE]
 PPM world.ppm [DONE]
 TEXT world.txt [DONE]
 Saving generated world to files.
-
+```
 
